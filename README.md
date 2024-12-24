@@ -19,3 +19,6 @@ git remote set-url origin git@github.com:Roger423/c_programing.git
 
 推送代码：
 git push -u origin master
+
+拉取代码：
+git pull origin master
