@@ -21,9 +21,3 @@ the system's architecture (typically 32-bit or 64-bit) and the specific implemen
 
 
 
-
-| Name   | Age | Occupation |
-|--------|-----|------------|
-| Alice  | 30  | Engineer   |
-| Bob    | 25  | Designer   |
-| Charlie| 35  | Manager    |
